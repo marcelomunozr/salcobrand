@@ -21,4 +21,5 @@
 		dots: true,
 		adaptiveHeight: true
     });
+
 })(jQuery); // End of use strict
